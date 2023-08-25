@@ -1,0 +1,27 @@
+.icon {
+  font-size: 22px;
+}
+.property {
+  font-size: 15px;
+}
+
+.check {
+  accent-color: #f57231;
+}
+.viewButton {
+  border: 2px solid #f57231;
+  border-radius: 4px;
+  color: #f57231;
+  background-color: #ffffff;
+  font-weight: bold;
+}
+.QuotButton {
+  border: 2px solid #f57231;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #f57231;
+  font-weight: bold;
+}
+.col {
+  color: #f57231;
+}

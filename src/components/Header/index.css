@@ -1,0 +1,10 @@
+.logo {
+  width: 150px;
+  cursor: pointer;
+}
+
+.onclick {
+  outline: none;
+  border: none;
+  background-color: white;
+}

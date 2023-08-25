@@ -1,0 +1,20 @@
+.bgcol {
+  background-color: #afafafc5;
+  margin: 2px;
+  padding-top: 2px;
+  cursor: pointer;
+}
+
+.col {
+  color: #f57231;
+}
+
+.count {
+  width: 30px;
+  color: aliceblue;
+  border-radius: 59%;
+  background-color: #f57231;
+  font-size: 12px;
+  padding: 4px;
+  text-align: center;
+}
